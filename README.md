@@ -10,6 +10,3 @@ Technologies Used:
 Flutter: For developing a cross-platform mobile application with a unified codebase.
 Dart: For efficient and effective programming and app logic.
 Whether you're using it for personal or professional purposes, the QR Code Scanner App provides a convenient solution for interacting with QR codes and accessing the information you need.
-
-Download now and start scanning with ease!
-
